@@ -1,21 +1,30 @@
-name,location,img_url
-bear,Sound/bear.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/2010-kodiak-bear-1.jpg?width=800
-cat,Sound/cat.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Cat_November_2010-1a.jpg?width=800
-chicken,Sound/chicken.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/First_Root_Farm_chicken.jpg?width=800
-chicks,Sound/chicks.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Day_old_chick_black_background.jpg?width=800
-cow,Sound/cow.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Cow_female_black_white.jpg?width=800
-dog,Sound/dog.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/YellowLabradorLooking_new.jpg?width=800
-donkey,Sound/donkey.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Donkey_1_arp_750px.jpg?width=800
-duck,Sound/duck.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Anas_platyrhynchos_male_female_quadrat.jpg?width=800
-elephant,Sound/elephant.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/African_Bush_Elephant.jpg?width=800
-frog,Sound/frog.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Caerulea3_crop.jpg?width=800
-goat,Sound/goat.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Hausziege_04.jpg?width=800
-horse,Sound/horse.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Nokota_Horses_cropped.jpg?width=800
-lion,Sound/lion.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Lion_waiting_in_Namibia.jpg?width=800
-monkey,Sound/monkey.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Bonnet_Macaque_DSC_1125.jpg?width=800
-pig,Sound/pig.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Sow_with_piglet.jpg?width=800
-polabear,Sound/polarbear.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Polar_Bear_-_Alaska_(cropped).jpg?width=800
-rooster,Sound/rooster.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Rooster04_adjusted.jpg?width=800
-sheep,Sound/sheep.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Flock_of_sheep.jpg?width=800
-tiger,Sound/tiger.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Walking_tiger_female.jpg?width=800
-wolf,Sound/wolf.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Eurasian_wolf_2.jpg?width=800
+name,location,img_url,
+bear,Sound/bear.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/2010-kodiak-bear-1.jpg?width=800,
+cat,Sound/cat.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Cat_November_2010-1a.jpg?width=800,
+chicken,Sound/chicken.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/First_Root_Farm_chicken.jpg?width=800,
+chicks,Sound/chicks.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Day_old_chick_black_background.jpg?width=800,
+cow,Sound/cow.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Cow_female_black_white.jpg?width=800,
+dog,Sound/dog.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/YellowLabradorLooking_new.jpg?width=800,
+donkey,Sound/donkey.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Donkey_1_arp_750px.jpg?width=800,
+duck,Sound/duck.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Anas_platyrhynchos_male_female_quadrat.jpg?width=800,
+elephant,Sound/elephant.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/African_Bush_Elephant.jpg?width=800,
+frog,Sound/frog.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Caerulea3_crop.jpg?width=800,
+goat,Sound/goat.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Hausziege_04.jpg?width=800,
+horse,Sound/horse.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Nokota_Horses_cropped.jpg?width=800,
+lion,Sound/lion.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Lion_waiting_in_Namibia.jpg?width=800,
+monkey,Sound/monkey.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Bonnet_Macaque_DSC_1125.jpg?width=800,
+pig,Sound/pig.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Sow_with_piglet.jpg?width=800,
+polabear,Sound/polarbear.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Polar_Bear_-_Alaska_(cropped).jpg?width=800,
+rooster,Sound/rooster.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Rooster04_adjusted.jpg?width=800,
+sheep,Sound/sheep.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Flock_of_sheep.jpg?width=800,
+tiger,Sound/tiger.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Walking_tiger_female.jpg?width=800,
+wolf,Sound/wolf.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Eurasian_wolf_2.jpg?width=800,
+silvery gibbon,Sound/SilveryGibbon.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/Silbergibbon_mit_Nachwuchs.jpg,
+loon,Sound/Loon.mp3,https://upload.wikimedia.org/wikipedia/commons/b/b0/Gavia_immer_-Minocqua%2C_Wisconsin%2C_USA_-swimming-8.jpg,
+puma,Sound/puma.mp3,https://upload.wikimedia.org/wikipedia/commons/d/d6/Mountain_Lion_in_Glacier_National_Park.jpg,
+colobus monkey,Sound/ColobusMonkey.mp3,https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Colobus_guereza_Lagos_Zoo_Portugal.jpg/250px-Colobus_guereza_Lagos_Zoo_Portugal.jpg,
+shoebill bird,Sound/ShoebillBird.mp3,https://upload.wikimedia.org/wikipedia/commons/c/c0/Balaeniceps_rex.jpg,
+crocodile,Sound/Crocodile.mp3,https://commons.wikimedia.org/wiki/Special:FilePath/NileCrocodile.jpg?width=500,
+koala,Sound/Koala.mp3,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Koala_climbing_tree.jpg/640px-Koala_climbing_tree.jpg,
+howler monkey,Sound/HowlerMonkey.mp3,https://mongabay-images.s3.amazonaws.com/1200/costa-rica/costa_rica_la_selva_1549.jpg,
+kiwi brid,Sound/KiwiBird.mp3,https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/TeTuatahianui.jpg/640px-TeTuatahianui.jpg,
