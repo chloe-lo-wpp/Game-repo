@@ -1,6 +1,5 @@
 .DS_Store
 venv/
 keys/
-*.mp3/
 *.mp4/
 .ipynb_checkpoints/
